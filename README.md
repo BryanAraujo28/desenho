@@ -1,2 +1,2 @@
 # js-escrevanome
-utilize esse projeto para tudo que imaginar.
+utilize esse projeto para fazer seus projetos
